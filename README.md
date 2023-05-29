@@ -2,14 +2,23 @@
 
 <div align="center">
   <h2>🔋 Whalesplash.io</h2>
-  <p>Next.js + Tailwind CSS + TypeScript starter packed with useful development features.</p>
-  <p>Made by <a href="https://theodorusclarence.com">Theodorus Clarence</a></p>
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/theodorusclarence/ts-nextjs-tailwind-starter)](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/stargazers)
-[![Depfu](https://badges.depfu.com/badges/fc6e730632ab9dacaf7df478a08684a7/overview.svg)](https://depfu.com/github/theodorusclarence/ts-nextjs-tailwind-starter?project_id=30160)
-[![Last Update](https://img.shields.io/badge/deps%20update-every%20sunday-blue.svg)](https://shields.io/)
+  <p>Crypto Trading Website.</p>
+  <p>Made by <a href="https://oleksandr-harvart.github.io">Oleksandr Harvart</a></p>
 
 </div>
+
+## Design
+
+<p>From <a href="https://www.figma.com/file/F6NM9YFPQ8ZLimaPpNwvqD/whalesplash.ai?node-id=943-22199&t=cJQdvsSYvo0fpow5-0">Figma Design</a></p>
+## Screenshots
+
+  Sign-Up Page                |   Dashboard Page        |  Coin Page
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Sign-Up.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Dashboard.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Coin-Data.png)
+
+  Chat page                |   Setting Page        |  News Page
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Chats.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Bot-configuration.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/News.png)
 
 ## Features
 
@@ -38,27 +47,9 @@ This repository is 🔋 battery packed with:
 
 ### 1. Clone this template using one of the three ways:
 
-1. Use this repository as template
-
-   **Disclosure:** by using this repository as a template, there will be an attribution on your repository.
-
-   I'll appreciate if you do, so this template can be known by others too 😄
-
-2. Using `create-next-app`
-
    ```bash
-   npx create-next-app -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter project-name
+   git clone https://github.com/oleksandr-harvart/whalesplash.io-crypto-trading.git
    ```
-
-3. Using `degit`
-
-   ```bash
-   npx degit theodorusclarence/ts-nextjs-tailwind-starter YOUR_APP_NAME
-   ```
-
-4. Deploy to Vercel
-
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2Fts-nextjs-tailwind-starter)
 
 ### 2. Install dependencies
 
@@ -78,14 +69,12 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `src/pages/index.tsx`.
 
-### 4. Change defaults
+## Created & Maintained By
 
-There are some things you need to change including title, urls, favicons, etc.
+[Oleksandr Harvart] (https://github.com/oleksandr-harvart)
 
-Find all comments with !STARTERCONF, then follow the guide.
 
-Don't forget to change the package name in package.json
+## Visitors Count
 
-### 5. Commit Message Convention
+<img align="left" src = "https://profile-counter.glitch.me/oleksandr-harvart/count.svg" alt ="Loading">
 
-This starter is using [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), it is mandatory to use it to commit changes.
