@@ -3,7 +3,6 @@
 <div align="center">
   <h2>🔋 Whalesplash.io</h2>
   <p>Crypto Trading Website.</p>
-  <p>Made by <a href="https://oleksandr-harvart.github.io">Oleksandr Harvart</a></p>
 
 </div>
 
@@ -14,11 +13,11 @@
 
   Sign-Up Page                |   Dashboard Page        |  Coin Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Sign-Up.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Dashboard.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Coin-Data.png)
+![](https://raw.githubusercontent.com/success-together/whalesplash.io-crypto-trading/main/screenshots/Sign-Up.png)|![](https://raw.githubusercontent.com/success-together/whalesplash.io-crypto-trading/main/screenshots/Dashboard.png)|![](https://raw.githubusercontent.com/success-together/whalesplash.io-crypto-trading/main/screenshots/Coin-Data.png)
 
   Chat page                |   Setting Page        |  News Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Chats.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/Bot-configuration.png)|![](https://raw.githubusercontent.com/oleksandr-harvart/whalesplash.io-crypto-trading/main/screenshots/News.png)
+![](https://raw.githubusercontent.com/success-together/whalesplash.io-crypto-trading/main/screenshots/Chats.png)|![](https://raw.githubusercontent.com/success-together/whalesplash.io-crypto-trading/main/screenshots/Bot-configuration.png)|![](https://raw.githubusercontent.com/success-together/whalesplash.io-crypto-trading/main/screenshots/News.png)
 
 ## Features
 
@@ -48,7 +47,7 @@ This repository is 🔋 battery packed with:
 ### 1. Clone this template using one of the three ways:
 
    ```bash
-   git clone https://github.com/oleksandr-harvart/whalesplash.io-crypto-trading.git
+   git clone https://github.com/success-together/whalesplash.io-crypto-trading.git
    ```
 
 ### 2. Install dependencies
@@ -71,10 +70,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Created & Maintained By
 
-[Oleksandr Harvart] (https://github.com/oleksandr-harvart)
+[Oleksandr Harvart] (https://github.com/success-together)
 
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/oleksandr-harvart/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/success-together/count.svg" alt ="Loading">
 
