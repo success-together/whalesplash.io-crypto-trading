@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from "react";
 
+import components from "../images/components.png";
 // image
 
 const Login = ({ history }: {history: any}) => {
@@ -14,17 +15,15 @@ const Login = ({ history }: {history: any}) => {
     <div className="authincation h-100 p-meddle">
       <div className="container h-100">
         <div className="row justify-content-center h-100 align-items-center">
-          <div className="col-md-6">
+          <div className="col-md-10">
             <div className="authincation-content">
               <div className="row no-gutters">
-                <div className="col-xl-12">
+                <div className="col-xl-6">
                   <div className="auth-form">
                     <div className="text-center mb-3">
-                      <Link href="/">
-                        <Image src="../images/logo-full.png" alt="logo" />
-                      </Link>
+                      <h2>Create Your Account</h2>
+                      <h4 className="text-center mb-4 ">Setting up on account takes less than 1 minute.</h4>
                     </div>
-                    <h4 className="text-center mb-4 ">Sign in your account</h4>
                     <form onSubmit={(e) => submitHandler(e)}>
                       <div className="form-group">
                         <label className="mb-1 ">
@@ -85,6 +84,15 @@ const Login = ({ history }: {history: any}) => {
                         </Link>
                       </p>
                     </div>
+                  </div>
+                </div>
+                <div className="col-xl-6">
+                  <div className="auth-form">
+                    <div className="text-center mb-3">
+                        <Image src={components} alt="components" width={300} height={100}/>
+                    </div>
+                    <h4 className="text-center mb-4 ">Trade Whales</h4>
+                    <h5 className="text-center mb-4 ">with whalesplash.ai</h5>
                   </div>
                 </div>
               </div>
