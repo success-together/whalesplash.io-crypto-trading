@@ -71,9 +71,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Created & Maintained By
 
 [Oleksandr Harvart] (https://github.com/success-together)
-
-
-## Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/success-together/count.svg" alt ="Loading">
-
