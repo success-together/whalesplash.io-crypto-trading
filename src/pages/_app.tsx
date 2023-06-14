@@ -1,7 +1,7 @@
 import { AppProps } from 'next/app';
 
 import '@/styles/globals.css';
-import '@/styles/style.css';
+import '@/scss/main.scss';
 
 import ThemeContextProvider from '@/context/ThemeContext';
 

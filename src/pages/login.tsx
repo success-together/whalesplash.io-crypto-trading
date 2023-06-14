@@ -52,7 +52,7 @@ const Login = ({ history }: {history: any}) => {
                               type="checkbox"
                               className="custom-control-input"
                               id="basic_checkbox_1"
-                            />
+                            /> 
                             <label
                               className="custom-control-label"
                               htmlFor="basic_checkbox_1"
