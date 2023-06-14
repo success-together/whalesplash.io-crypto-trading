@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>🔋 Whalesplash.io</h2>
-  <p>Crypto Trading Website.</p>
+  <p>Crypto Trading Admin Dashboard</p>
 
 </div>
 
