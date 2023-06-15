@@ -249,7 +249,7 @@ input[type="checkbox"] {
 		}
 	}
 	.custom-control-input:checked ~ .custom-control-label::after{
-		background-image:url('../images/svg/check.svg');
+		background-image:url('../../../images/svg/check.svg');
 	}
 	.custom-control-input:checked ~ .custom-control-label::before{
 		background:$white;

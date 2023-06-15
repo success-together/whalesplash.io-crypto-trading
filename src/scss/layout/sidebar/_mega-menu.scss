@@ -67,7 +67,7 @@
                     &-md {
                         &:hover {
                             &>a {
-                                width: calc(45vw + 3);
+                                width: calc(45vw + 3rem);
                             }
                             &>ul {
                                 max-height: 18.75rem;
@@ -83,7 +83,7 @@
                     &-sm {
                         &:hover {
                             &>a {
-                                width: calc(30vw + 3);
+                                width: calc(30vw + 3rem);
                             }
                             &>ul {
                                 max-height: 18.125rem;

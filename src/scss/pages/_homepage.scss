@@ -182,7 +182,7 @@ span#counter {
 		margin-top: 80px;
 	}
 	&:before{
-		background-image:url('../images/dots.png');
+		background-image:url('../../images/dots.png');
 		background-repeat:no-repeat;
 		content:"";
 		height:30px;
@@ -194,7 +194,7 @@ span#counter {
 	}
 	&:after{
 		content:"";
-		background-image:url('../images/dots-2.png');
+		background-image:url('../../images/dots-2.png');
 		background-repeat:no-repeat;
 		left: 0;
 		bottom: 0;
@@ -349,7 +349,7 @@ span#counter {
     width: 60px;
     height: 60px;
     display: inline-block;
-    background: url('../images/like.png');
+    background: url('../../images/like.png');
     cursor: pointer;
     margin: -25px -15px;
 }
@@ -786,7 +786,7 @@ span#counter {
 [for="header_color_1"],
 [for="sidebar_color_1"]{
 	background: transparent;
-    background-image: url('../images/pattern/pattern5.png');
+    background-image: url('../../images/pattern/pattern5.png');
     background-size: 130%;
 }
 
