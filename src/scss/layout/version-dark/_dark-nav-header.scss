@@ -1,0 +1,20 @@
+[data-theme-version="dark"] {
+    .nav-header, 
+    .nav-control {
+        background-color:$dark-card;
+    }
+
+    .nav-control {
+        color: $white;
+    }
+	.svg-logo-pattern{
+		fill:$white;
+	}
+    .brand-logo {
+        color: $white;
+
+        &:hover {
+            color: $white;
+        }
+    }
+}

@@ -1,0 +1,27 @@
+[data-theme-version="dark"] {
+    .sidebar-right {
+        /* background-color: darken($primary, 15%);
+		border-radius: 12px 0 0 12px;
+			
+        .nav-tabs {
+            background-color: lighten($d-bg, 3.2%);
+            border-bottom: 1px solid $d-bg;
+
+            .nav-link {
+                &.active {
+                    background-color: $d-bg;
+                }
+            }
+        } */
+		.form-control{
+			background-color:$white;
+		}
+		.bootstrap-select .btn,.dropdown-menu{
+			background:$white !important;
+			border-color:$border-color !important;
+		}
+		.dropdown-menu .dropdown-item.selected, .dropdown-menu .dropdown-item.selected.active, .dropdown-menu .dropdown-item.active, .dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:focus{
+			background-color:rgba($primary,0.05);
+		}
+    }
+}
